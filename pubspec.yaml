@@ -1,7 +1,7 @@
 name: flutter_html
 description: A Flutter widget for rendering static HTML and CSS as Flutter widgets.
-version: 3.0.0-beta.2
-homepage: https://github.com/Sub6Resources/flutter_html
+version: 10.0.0
+homepage: https://github.com/rushabhnavadiya/flutter_html
 
 environment:
   sdk: '>=2.17.0 <4.0.0'
